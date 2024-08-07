@@ -1,3 +1,1 @@
-hiiii hello namaste 
-  vanakam 
-saptingla hlooo
+iam in java class 
